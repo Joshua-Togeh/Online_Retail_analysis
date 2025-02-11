@@ -56,6 +56,5 @@ pip install dash plotly pandas openpyxl
 ## Contributing
 Feel free to submit pull requests for improvements or new features.
 
-## License
-This project is licensed under the MIT License.
+
 
