@@ -46,7 +46,7 @@ pip install dash plotly pandas openpyxl
    ```bash
    python online.py
    ```
-4. If you want to access the dashboard open your browser and go to `http://127.0.0.1:8050/`
+4. If you want to access the dashboard click here [Open Dashboard](http://127.0.0.1:8050/)
 
 ## Future Improvements
 - Add **date filters** for more dynamic analysis.
